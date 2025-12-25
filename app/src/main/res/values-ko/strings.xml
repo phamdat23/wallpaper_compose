@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallive</string>
+
+    <string name="daily_reward">일일 보상!!!</string>
+    <string name="set_as_wallpaper">배경화면으로 설정</string>
+    <string name="download">다운로드</string>
+    <string name="next">다음</string>
+    <string name="get_start">시작하기</string>
+
+    <string name="vietnamese">베트남어</string>
+    <string name="english">영어</string>
+    <string name="portuguese">포르투갈어</string>
+    <string name="korean">한국어</string>
+    <string name="japanese">일본어</string>
+    <string name="chinese">중국어</string>
+    <string name="language">언어</string>
+
+    <string name="title_intro_1">4D 배경화면</string>
+    <string name="title_intro_2">라이브 배경화면</string>
+    <string name="title_intro_3">다양한 카테고리</string>
+    <string name="title_intro_4">매일 아름다운 배경화면</string>
+    <string name="title_intro_5">좋은 성능, 배터리 절약</string>
+
+    <string name="content_intro_1">4D 배경화면은 생생하고 독특한 경험을 제공합니다.</string>
+    <string name="content_intro_2">라이브 배경화면으로 매끄럽고 편안한 경험을 즐기세요</string>
+    <string name="content_intro_3">다양한 테마로 모든 배경화면 요구를 충족합니다</string>
+    <string name="content_intro_4">새로운 배경화면이 매일 업데이트됩니다</string>
+    <string name="content_intro_5">배터리 최적화와 경험을 위해 좋은 성능의 앱</string>
+
+    <string name="skip">건너뛰기</string>
+    <string name="home">홈</string>
+    <string name="category">카테고리</string>
+    <string name="my_collection">내 컬렉션</string>
+    <string name="wallpaper">배경화면</string>
+    <string name="popular">인기</string>
+    <string name="wallpaper_4d">시차 효과</string>
+    <string name="live_wallpaper">라이브 배경화면</string>
+    <string name="wallpaper_4k">4K 배경화면</string>
+
+    <string name="_abstract">추상</string>
+    <string name="anime">애니메이션</string>
+    <string name="army">군대</string>
+    <string name="animal">동물</string>
+    <string name="artistic">예술</string>
+    <string name="bikes">자전거</string>
+    <string name="architecture">건축</string>
+    <string name="cars">자동차</string>
+    <string name="christmas">크리스마스</string>
+    <string name="city">도시</string>
+    <string name="cute">귀여운</string>
+    <string name="festival">축제</string>
+    <string name="games">게임</string>
+    <string name="girls">소녀들</string>
+    <string name="halloween">할로윈</string>
+    <string name="love">사랑</string>
+    <string name="movies">영화</string>
+    <string name="nature">자연</string>
+    <string name="people">사람들</string>
+    <string name="space">우주</string>
+    <string name="sports">스포츠</string>
+
+    <string name="my_wallpaper">내 배경화면</string>
+
+    <string name="text_empty">폴더가 비어 있습니다.\n지금 배경화면을 추가해 보세요.</string>
+    <string name="add_wallpaper">배경화면 추가</string>
+    <string name="your_folder_is_empty">폴더가 비어 있습니다.</string>
+    <string name="setting">설정</string>
+    <string name="done">완료</string>
+    <string name="general_settings">일반 설정</string>
+    <string name="battery_super_save_mode">배터리 절약 모드</string>
+    <string name="will_affect_the_responsiveness_of_4D_effect.">4D 효과의 반응성에 영향을 줍니다.</string>
+    <string name="camera_zoom_out_on_unlock">잠금 해제 시 카메라 축소</string>
+    <string name="camera_auto_move">카메라 자동 이동</string>
+    <string name="double_tap_to_recenter_wallpaper">더블 탭하여 배경화면 재조정</string>
+    <string name="_4D_parallax_settings">4D 시차 설정</string>
+    <string name="_4D_parallax_effect_strength">4D 시차 효과 강도</string>
+    <string name="invert_axis">축 반전</string>
+    <string name="tutorial">튜토리얼</string>
+    <string name="search_for">검색…</string>
+    <string name="search">검색</string>
+    <string name="select_all">모두 선택</string>
+    <string name="clear_all">모두 지우기</string>
+    <string name="no_result_found">결과를 찾을 수 없습니다</string>
+    <string name="we_cant_find_any_item_matching_your_search">검색 조건에 맞는 항목을 찾을 수 없습니다</string>
+    <string name="loading">배경화면 설정 중...</string>
+    <string name="home_screen">홈 화면</string>
+    <string name="Lock_screen">잠금 화면</string>
+    <string name="both_screens">두 화면 모두</string>
+
+    <string name="successfully">성공적으로 완료</string>
+    <string name="back_to_home">홈으로 돌아가기</string>
+    <string name="go_to_setting">설정으로 이동</string>
+    <string name="cancel">취소</string>
+    <string name="internet_disconnected">인터넷 연결 끊김</string>
+    <string name="please_connect_to_the_internet_to_use_the_app">앱을 사용하려면 인터넷에 연결하세요.</string>
+    <string name="my_favorites">내 즐겨찾기</string>
+
+</resources>

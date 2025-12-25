@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallive</string>
+
+    <string name="daily_reward">デイリーボーナス!!!</string>
+    <string name="set_as_wallpaper">壁紙として設定</string>
+    <string name="download">ダウンロード</string>
+    <string name="next">次へ</string>
+    <string name="get_start">始める</string>
+
+    <string name="vietnamese">ベトナム語</string>
+    <string name="english">英語</string>
+    <string name="portuguese">ポルトガル語</string>
+    <string name="korean">韓国語</string>
+    <string name="japanese">日本語</string>
+    <string name="chinese">中国語</string>
+    <string name="language">言語</string>
+
+    <string name="title_intro_1">4D壁紙</string>
+    <string name="title_intro_2">ライブ壁紙</string>
+    <string name="title_intro_3">豊富なカテゴリー</string>
+    <string name="title_intro_4">毎日美しい壁紙</string>
+    <string name="title_intro_5">高性能でバッテリー節約</string>
+
+    <string name="content_intro_1">4D壁紙は生き生きとした独特な体験を提供します。</string>
+    <string name="content_intro_2">ライブ壁紙で滑らかで癒しの体験を</string>
+    <string name="content_intro_3">幅広いテーマで壁紙のニーズに応えます</string>
+    <string name="content_intro_4">新しい壁紙が毎日更新されます</string>
+    <string name="content_intro_5">バッテリー最適化と快適な体験のための高性能アプリ</string>
+
+    <string name="skip">スキップ</string>
+    <string name="home">ホーム</string>
+    <string name="category">カテゴリー</string>
+    <string name="my_collection">マイコレクション</string>
+    <string name="wallpaper">壁紙</string>
+    <string name="popular">人気</string>
+    <string name="wallpaper_4d">視差効果</string>
+    <string name="live_wallpaper">ライブ壁紙</string>
+    <string name="wallpaper_4k">4K壁紙</string>
+
+    <string name="_abstract">抽象</string>
+    <string name="anime">アニメ</string>
+    <string name="army">軍隊</string>
+    <string name="animal">動物</string>
+    <string name="artistic">芸術的</string>
+    <string name="bikes">バイク</string>
+    <string name="architecture">建築</string>
+    <string name="cars">車</string>
+    <string name="christmas">クリスマス</string>
+    <string name="city">都市</string>
+    <string name="cute">かわいい</string>
+    <string name="festival">フェスティバル</string>
+    <string name="games">ゲーム</string>
+    <string name="girls">女の子</string>
+    <string name="halloween">ハロウィン</string>
+    <string name="love">愛</string>
+    <string name="movies">映画</string>
+    <string name="nature">自然</string>
+    <string name="people">人々</string>
+    <string name="space">宇宙</string>
+    <string name="sports">スポーツ</string>
+
+    <string name="my_wallpaper">マイ壁紙</string>
+
+    <string name="text_empty">フォルダーが空です。\n今すぐ壁紙を追加しましょう。</string>
+    <string name="add_wallpaper">壁紙を追加</string>
+    <string name="your_folder_is_empty">フォルダーが空です。</string>
+    <string name="setting">設定</string>
+    <string name="done">完了</string>
+    <string name="general_settings">一般設定</string>
+    <string name="battery_super_save_mode">バッテリー節約モード</string>
+    <string name="will_affect_the_responsiveness_of_4D_effect.">4D効果の応答性に影響を与えます。</string>
+    <string name="camera_zoom_out_on_unlock">ロック解除時にカメラズームアウト</string>
+    <string name="camera_auto_move">カメラ自動移動</string>
+    <string name="double_tap_to_recenter_wallpaper">ダブルタップで壁紙を再調整</string>
+    <string name="_4D_parallax_settings">4Dパララックス設定</string>
+    <string name="_4D_parallax_effect_strength">4Dパララックス効果の強度</string>
+    <string name="invert_axis">軸を反転</string>
+    <string name="tutorial">チュートリアル</string>
+    <string name="search_for">検索…</string>
+    <string name="search">検索</string>
+    <string name="select_all">すべて選択</string>
+    <string name="clear_all">すべてクリア</string>
+    <string name="no_result_found">結果が見つかりません</string>
+    <string name="we_cant_find_any_item_matching_your_search">検索に一致する項目が見つかりません</string>
+    <string name="loading">壁紙設定中…</string>
+    <string name="home_screen">ホーム画面</string>
+    <string name="Lock_screen">ロック画面</string>
+    <string name="both_screens">両方の画面</string>
+
+    <string name="successfully">成功</string>
+    <string name="back_to_home">ホームに戻る</string>
+    <string name="go_to_setting">設定に移動</string>
+    <string name="cancel">キャンセル</string>
+    <string name="internet_disconnected">インターネット接続が切断されました</string>
+    <string name="please_connect_to_the_internet_to_use_the_app">アプリを使用するにはインターネットに接続してください。</string>
+    <string name="my_favorites">お気に入り</string>
+
+</resources>

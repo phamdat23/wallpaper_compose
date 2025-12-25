@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="color_gradient_primary">#BF0101</color>
+    <color name="color_gradient_secscond">#FF382B</color>
+    <color name="color_primary">#C60605</color>
+    <color name="color_secscond">#FE372B</color>
+    <color name="color_gradient_search_start">#DA0000</color>
+    <color name="color_gradient_search_end">#FF6161</color>
+    <color name="color_unselected">#D9D9D9</color>
+    <color name="color_bg_bottom_bar">#434343</color>
+    <color name="color_disable">#9F9F9F</color>
+    <color name="color_disable_icon">#626262</color>
+    <color name="color_red">#F91D1D</color>
+    <color name="color_black_50">#80343434</color>
+    <color name="color_bg">#ffffff</color>
+    <color name="color_text_gray">#E1E1E1</color>
+
+    <color name="color_primary_10">#1ABF0101</color>
+    <color name="color_secscond_10">#1AFF382B</color>
+
+    <color name="color_bold_900">#222222</color>
+    <color name="color_bg_tab">#FFF6F6</color>
+    <color name="color_neutral_300">#E1E1E1</color>
+    <color name="color_neutral_400">#BEBEBE</color>
+    <color name="color_neutral_200">#EFEFEF</color>
+    <color name="color_track_switch">#FF0505</color>
+    <color name="color_bg_language">#343434</color>
+    <color name="color_track_progress_splash">#F1EFEF</color>
+    <color name="color_iap">#CC2A2836</color>
+    <color name="color_gradient_iap_start">#4DFFF8F8</color>
+    <color name="color_gradient_iap_end">#4DFFE2E2</color>
+
+    <color name="color_neutral_500">#9F9F9F</color>
+
+    <color name="color_neutral_700">#626262</color>
+    <color name="color_neutral_800">#434343</color>
+</resources>

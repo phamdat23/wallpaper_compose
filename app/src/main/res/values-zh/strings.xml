@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallive</string>
+
+    <string name="daily_reward">每日奖励!!!</string>
+    <string name="set_as_wallpaper">设为壁纸</string>
+    <string name="download">下载</string>
+    <string name="next">下一步</string>
+    <string name="get_start">开始</string>
+
+    <string name="vietnamese">越南语</string>
+    <string name="english">英语</string>
+    <string name="portuguese">葡萄牙语</string>
+    <string name="korean">韩语</string>
+    <string name="japanese">日语</string>
+    <string name="chinese">中文</string>
+    <string name="language">语言</string>
+
+    <string name="title_intro_1">4D 壁纸</string>
+    <string name="title_intro_2">动态壁纸</string>
+    <string name="title_intro_3">丰富的类别</string>
+    <string name="title_intro_4">每日美丽壁纸</string>
+    <string name="title_intro_5">高性能，节省电池</string>
+
+    <string name="content_intro_1">4D 壁纸带来生动、独特的体验。</string>
+    <string name="content_intro_2">通过动态壁纸体验平滑舒适</string>
+    <string name="content_intro_3">丰富的主题满足您所有的壁纸需求</string>
+    <string name="content_intro_4">每日更新新壁纸</string>
+    <string name="content_intro_5">高性能应用，帮助优化电池寿命</string>
+
+    <string name="skip">跳过</string>
+    <string name="home">首页</string>
+    <string name="category">类别</string>
+    <string name="my_collection">我的收藏</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="popular">热门</string>
+    <string name="wallpaper_4d">视差效果</string>
+    <string name="live_wallpaper">动态壁纸</string>
+    <string name="wallpaper_4k">4K 壁纸</string>
+
+    <string name="_abstract">抽象</string>
+    <string name="anime">动漫</string>
+    <string name="army">军队</string>
+    <string name="animal">动物</string>
+    <string name="artistic">艺术</string>
+    <string name="bikes">自行车</string>
+    <string name="architecture">建筑</string>
+    <string name="cars">汽车</string>
+    <string name="christmas">圣诞节</string>
+    <string name="city">城市</string>
+    <string name="cute">可爱</string>
+    <string name="festival">节日</string>
+    <string name="games">游戏</string>
+    <string name="girls">女孩</string>
+    <string name="halloween">万圣节</string>
+    <string name="love">爱</string>
+    <string name="movies">电影</string>
+    <string name="nature">自然</string>
+    <string name="people">人们</string>
+    <string name="space">空间</string>
+    <string name="sports">运动</string>
+
+    <string name="my_wallpaper">我的壁纸</string>
+
+    <string name="text_empty">您的文件夹为空。\n立即添加壁纸。</string>
+    <string name="add_wallpaper">添加壁纸</string>
+    <string name="your_folder_is_empty">您的文件夹为空。</string>
+    <string name="setting">设置</string>
+    <string name="done">完成</string>
+    <string name="general_settings">常规设置</string>
+    <string name="battery_super_save_mode">超级省电模式</string>
+    <string name="will_affect_the_responsiveness_of_4D_effect.">将影响4D效果的响应性。</string>
+    <string name="camera_zoom_out_on_unlock">解锁时相机缩小</string>
+    <string name="camera_auto_move">相机自动移动</string>
+    <string name="double_tap_to_recenter_wallpaper">双击重新调整壁纸</string>
+    <string name="_4D_parallax_settings">4D视差设置</string>
+    <string name="_4D_parallax_effect_strength">4D视差效果强度</string>
+    <string name="invert_axis">反转轴</string>
+    <string name="tutorial">教程</string>
+    <string name="search_for">搜索…</string>
+    <string name="search">搜索</string>
+    <string name="select_all">全选</string>
+    <string name="clear_all">清空</string>
+    <string name="no_result_found">未找到结果</string>
+    <string name="we_cant_find_any_item_matching_your_search">未找到匹配搜索的项目</string>
+    <string name="loading">加载中设置壁纸…</string>
+    <string name="home_screen">主屏幕</string>
+    <string name="Lock_screen">锁屏</string>
+    <string name="both_screens">双屏幕</string>
+
+    <string name="successfully">成功</string>
+    <string name="back_to_home">返回主页</string>
+    <string name="go_to_setting">前往设置</string>
+    <string name="cancel">取消</string>
+    <string name="internet_disconnected">互联网已断开连接</string>
+    <string name="please_connect_to_the_internet_to_use_the_app">请连接互联网以使用该应用程序。</string>
+    <string name="my_favorites">我的收藏</string>
+
+</resources>

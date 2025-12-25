@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Wallive</string>
+    <string name="admob_key" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="daily_reward">Daily Reward!!!</string>
+    <string name="set_as_wallpaper">Set As Wallpaper</string>
+    <string name="download">Download</string>
+    <string name="next">Next</string>
+    <string name="get_start">Get start</string>
+
+    <string name="vietnamese">Vietnamese</string>
+    <string name="english">English</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="korean">Korean</string>
+    <string name="japanese">Japanese</string>
+    <string name="chinese">Chinese</string>
+    <string name="language">Language</string>
+
+    <string name="title_intro_1">4D Wallpaper</string>
+    <string name="title_intro_2">Live Wallpaper</string>
+    <string name="title_intro_3">A lot of rich categories</string>
+    <string name="title_intro_4">Beautiful wallpaper daily</string>
+    <string name="title_intro_5">Good performance save battery</string>
+
+    <string name="content_intro_1">4D wallpaper brings a vivid, unique feel to your experience.</string>
+    <string name="content_intro_2">Smooth, soothing experience with live wallpapers</string>
+    <string name="content_intro_3">Wide variety of themes to suit all your wallpaper needs</string>
+    <string name="content_intro_4">New wallpapers are updated daily to refresh your phone every day</string>
+    <string name="content_intro_5">Good performance app to help your phone optimize battery life and experience</string>
+    <string name="skip">Skip</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="my_collection">My Collection</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="popular">Popular</string>
+    <string name="wallpaper_4d">Parallax</string>
+    <string name="live_wallpaper">Live Wallpaper</string>
+    <string name="wallpaper_4k">4K Wallpaper</string>
+    <!--    title category-->
+    <string name="_abstract">Abstract</string>
+    <string name="anime">Anime</string>
+    <string name="army">Army</string>
+    <string name="animal">Animal</string>
+    <string name="artistic">Artistic</string>
+    <string name="bikes">Bikes</string>
+    <string name="architecture">Architecture</string>
+    <string name="cars">Cars</string>
+    <string name="christmas">Christmas</string>
+    <string name="city">City</string>
+    <string name="cute">Cute</string>
+    <string name="festival">Festival</string>
+    <string name="games">Games</string>
+    <string name="girls">Girls</string>
+    <string name="halloween">Halloween</string>
+    <string name="love">Love</string>
+    <string name="movies">Movies</string>
+    <string name="nature">Nature</string>
+    <string name="people">People</string>
+    <string name="space">Space</string>
+    <string name="sports">Sports</string>
+
+    <string name="my_wallpaper">My Wallpaper</string>
+
+    <string name="text_empty">Your folder is empty.\n Let\'s add wallpaper now.</string>
+    <string name="add_wallpaper">Add Wallpaper</string>
+    <string name="your_folder_is_empty">Your folder is empty.</string>
+    <string name="setting">Setting</string>
+    <string name="done">Done</string>
+    <string name="general_settings">General settings</string>
+    <string name="battery_super_save_mode">Battery Super Save Mode</string>
+    <string name="will_affect_the_responsiveness_of_4D_effect.">Will affect the responsiveness of 4D effect.</string>
+    <string name="camera_zoom_out_on_unlock">Camera zoom-out on unlock</string>
+    <string name="camera_auto_move">Camera auto-move</string>
+    <string name="double_tap_to_recenter_wallpaper">Double-tap to recenter wallpaper</string>
+    <string name="_4D_parallax_settings">4D Parallax settings</string>
+    <string name="_4D_parallax_effect_strength">4D Parallax effect strength</string>
+    <string name="invert_axis">Invert axis</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="search_for">Search for…</string>
+    <string name="search">Search</string>
+    <string name="select_all">Select all</string>
+    <string name="clear_all">Clear all</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="we_cant_find_any_item_matching_your_search">We can’t find any item matching\nyour search</string>
+    <string name="loading">Loading set wallpaper…</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="Lock_screen">Lock Screen</string>
+    <string name="both_screens">Both Screens</string>
+    <string name="successfully">Successfully</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="go_to_setting">Go To Setting</string>
+    <string name="cancel">Cancel</string>
+    <string name="internet_disconnected">Internet Disconnected</string>
+    <string name="please_connect_to_the_internet_to_use_the_app">Please connect to the Internet to use the app.</string>
+
+    <string name="my_favorites">My Favorites</string>
+    
+    <string name="update_app">Update</string>
+    <string name="update_now">Update Now</string>
+    <string name="update_content">Check out the latest version available of my app!</string>
+
+    <string name="unlock_now">Unlock now</string>
+    <string name="unlock_all_wallpapers">Unlock All Wallpapers</string>
+    <string name="description_iap">One-time purchase for lifetime access. Get unlimited access to all wallpapers in this category.</string>
+    <string name="subscription_has_been_purchased">subscription has been purchased</string>
+    <string name="subscription_has_not_been_purchased">subscription has not been purchased</string>
+    <string name="restore">Restore</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="term_of_use">Term of use</string>
+    <!-- Preference Keys-->
+    <string name="pref_sensor_key" translatable="false">sensor</string>
+    <string name="pref_limit_key" translatable="false">limit</string>
+    <string name="pref_depth_key" translatable="false">depth</string>
+    <string name="pref_sensitivity_key" translatable="false">sensitivity</string>
+    <string name="pref_fallback_key" translatable="false">fallback</string>
+    <string name="pref_zoom_key" translatable="false">zoom</string>
+    <string name="pref_scroll_key" translatable="false">scroll</string>
+    <string name="pref_scroll_amount_key" translatable="false">scroll_amount</string>
+    <string name="pref_delete_key" translatable="false">delete</string>
+    <string name="pref_notification_key" translatable="false">notification</string>
+    <string name="pref_dim_key" translatable="false">dim</string>
+    <string name="pref_version_key" translatable="false">version</string>
+
+    <!-- Preference Default -->
+    <bool name="pref_sensor_default" translatable="false">true</bool>
+    <bool name="pref_limit_default" translatable="false">true</bool>
+    <string name="pref_depth_default" translatable="false">100</string>
+    <string name="pref_sensitivity_default" translatable="false">100</string>
+    <string name="pref_fallback_default" translatable="false">50</string>
+    <string name="pref_zoom_default" translatable="false">5</string>
+    <bool name="pref_scroll_default" translatable="false">true</bool>
+    <string name="pref_scroll_amount_default" translatable="false">50</string>
+    <bool name="pref_notification_default" translatable="false">true</bool>
+    <string name="pref_dim_default" translatable="false">0</string>
+
+
+</resources>

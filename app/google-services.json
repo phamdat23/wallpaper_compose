@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037834671469",
+    "project_id": "d-wallpaper-ca6d3",
+    "storage_bucket": "d-wallpaper-ca6d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037834671469:android:b81f63dc29008801be7664",
+        "android_client_info": {
+          "package_name": "com.itsol.vn.wallpaper.live.parallax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQM2rRDBx5OprFQXQ9SMZvL7ICS6BGPVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

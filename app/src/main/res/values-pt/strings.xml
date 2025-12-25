@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallive</string>
+
+    <string name="daily_reward">Recompensa Diária!!!</string>
+    <string name="set_as_wallpaper">Definir como Papel de Parede</string>
+    <string name="download">Baixar</string>
+    <string name="next">Próximo</string>
+    <string name="get_start">Começar</string>
+
+    <string name="vietnamese">Vietnamita</string>
+    <string name="english">Inglês</string>
+    <string name="portuguese">Português</string>
+    <string name="korean">Coreano</string>
+    <string name="japanese">Japonês</string>
+    <string name="chinese">Chinês</string>
+    <string name="language">Idioma</string>
+
+    <string name="title_intro_1">Papel de Parede 4D</string>
+    <string name="title_intro_2">Papel de Parede Animado</string>
+    <string name="title_intro_3">Muitas Categorias Ricas</string>
+    <string name="title_intro_4">Papel de Parede Diário e Bonito</string>
+    <string name="title_intro_5">Bom Desempenho, Economiza Bateria</string>
+
+    <string name="content_intro_1">Papel de parede 4D oferece uma experiência única e vibrante.</string>
+    <string name="content_intro_2">Experiência suave e relaxante com papéis de parede animados</string>
+    <string name="content_intro_3">Grande variedade de temas para todas as necessidades de papel de parede</string>
+    <string name="content_intro_4">Novos papéis de parede são atualizados diariamente</string>
+    <string name="content_intro_5">App com bom desempenho para otimizar bateria e experiência</string>
+
+    <string name="skip">Pular</string>
+    <string name="home">Início</string>
+    <string name="category">Categoria</string>
+    <string name="my_collection">Minha Coleção</string>
+    <string name="wallpaper">Papel de Parede</string>
+    <string name="popular">Popular</string>
+    <string name="wallpaper_4d">Paralaxe</string>
+    <string name="live_wallpaper">Papel de Parede Animado</string>
+    <string name="wallpaper_4k">Papel de Parede 4K</string>
+
+    <string name="_abstract">Abstrato</string>
+    <string name="anime">Anime</string>
+    <string name="army">Exército</string>
+    <string name="animal">Animais</string>
+    <string name="artistic">Artístico</string>
+    <string name="bikes">Motos</string>
+    <string name="architecture">Arquitetura</string>
+    <string name="cars">Carros</string>
+    <string name="christmas">Natal</string>
+    <string name="city">Cidade</string>
+    <string name="cute">Fofo</string>
+    <string name="festival">Festival</string>
+    <string name="games">Jogos</string>
+    <string name="girls">Garotas</string>
+    <string name="halloween">Halloween</string>
+    <string name="love">Amor</string>
+    <string name="movies">Filmes</string>
+    <string name="nature">Natureza</string>
+    <string name="people">Pessoas</string>
+    <string name="space">Espaço</string>
+    <string name="sports">Esportes</string>
+
+    <string name="my_wallpaper">Meu Papel de Parede</string>
+
+    <string name="text_empty">Sua pasta está vazia.\nAdicione papel de parede agora.</string>
+    <string name="add_wallpaper">Adicionar Papel de Parede</string>
+    <string name="your_folder_is_empty">Sua pasta está vazia.</string>
+    <string name="setting">Configuração</string>
+    <string name="done">Concluído</string>
+    <string name="general_settings">Configurações Gerais</string>
+    <string name="battery_super_save_mode">Modo Super Economia de Bateria</string>
+    <string name="will_affect_the_responsiveness_of_4D_effect.">Afetará a resposta do efeito 4D.</string>
+    <string name="camera_zoom_out_on_unlock">Zoom da Câmera ao Desbloquear</string>
+    <string name="camera_auto_move">Movimento Automático da Câmera</string>
+    <string name="double_tap_to_recenter_wallpaper">Toque Duplo para Recentralizar Papel de Parede</string>
+    <string name="_4D_parallax_settings">Configurações de Parallax 4D</string>
+    <string name="_4D_parallax_effect_strength">Força do Efeito Parallax 4D</string>
+    <string name="invert_axis">Inverter Eixo</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="search_for">Procurar…</string>
+    <string name="search">Pesquisar</string>
+    <string name="select_all">Selecionar Todos</string>
+    <string name="clear_all">Limpar Todos</string>
+    <string name="no_result_found">Nenhum resultado encontrado</string>
+    <string name="we_cant_find_any_item_matching_your_search">Não encontramos nenhum item que corresponda à sua busca</string>
+    <string name="loading">Configurando papel de parede...</string>
+    <string name="home_screen">Tela Inicial</string>
+    <string name="Lock_screen">Tela de Bloqueio</string>
+    <string name="both_screens">Ambas as Telas</string>
+
+    <string name="successfully">Com sucesso</string>
+    <string name="back_to_home">Voltar para a página inicial</string>
+    <string name="go_to_setting">Ir para Configurações</string>
+    <string name="cancel">Cancelar</string>
+    <string name="internet_disconnected">Internet desconectada</string>
+    <string name="please_connect_to_the_internet_to_use_the_app">Conecte-se à Internet para usar o aplicativo.</string>
+    <string name="my_favorites">Meus Favoritos</string>
+
+</resources>
